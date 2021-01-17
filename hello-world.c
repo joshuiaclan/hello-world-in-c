@@ -9,7 +9,7 @@ int main() {
     int x, y, result = 0;
     int operation;
     printf("Enter 1st Number: ");
-    scanf("%d", &x);
+    jjscanf("%d", &x);
     
     printf("Enter 2nd Number: ");
     scanf("%d", &y);
