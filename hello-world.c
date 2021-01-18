@@ -8,10 +8,10 @@ int div ( int x, int y ) {  return x / y; }
 int main() {
     int x, y, result = 0;
     int operation;
-    printf("Enter 1st Number: ");
+    printf("Enter 1st Integer: ");
     scanf("%d", &x);
     
-    printf("Enter 2nd Number: ");
+    printf("Enter 2nd Integer: ");
     scanf("%d", &y);
 
     printf("[1] Addition \n[2] Subtraction\n[3] Multiplication\n[4] Division\nChoose Operation:");
